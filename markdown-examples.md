@@ -18,8 +18,6 @@ export default {
   }
 }
 ```
-
-
 ````
 
 **Output**
