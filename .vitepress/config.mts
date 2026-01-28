@@ -4,6 +4,11 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "PieTeams",
   description: "PieTeams Website.",
+  base: "/",
+  sitemap: {
+    hostname: "https://pieteams.github.io/",
+  },
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -21,6 +26,11 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/pieteams/pieteams.github.io" }],
+
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2019-present PieTeams",
+    },
   },
 });
