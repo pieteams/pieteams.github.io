@@ -5,9 +5,9 @@ export default defineConfig({
   title: "PieTeams",
   description: "PieTeams Website.",
   base: "/",
-  sitemap: {
-    hostname: "https://pieteams.github.io/",
-  },
+  // sitemap: {
+  //   hostname: "https://pieteams.github.io/",
+  // },
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
