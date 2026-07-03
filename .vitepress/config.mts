@@ -5,6 +5,16 @@ export default defineConfig({
   title: "PieTeams",
   description: "PieTeams Website.",
   base: "/",
+  head: [
+    [
+      "script",
+      {
+        async: "true",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3177606357477709",
+        crossorigin: "anonymous",
+      },
+    ],
+  ],
   sitemap: {
     hostname: "https://pieteams.github.io/",
   },
