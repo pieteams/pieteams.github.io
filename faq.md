@@ -42,7 +42,7 @@ Short quotations with a link to the source are welcome. For longer reproductions
 
 ### Does this website use cookies?
 
-Yes. The site uses Google Analytics to understand aggregate traffic and Google AdSense to display advertising. Both services may set cookies. The [privacy policy](/privacy) lists the categories, purposes and ways to opt out.
+Yes. The site uses Google AdSense to display advertising, and Google may set advertising cookies. The [privacy policy](/privacy) lists the categories, purposes and ways to opt out.
 
 ### Can I use the site without personalised advertising?
 
