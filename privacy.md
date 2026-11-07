@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective date:** 6 November 2026  
-**Last updated:** 6 November 2026
+**Last updated:** 7 November 2026
 
 This policy explains how PieTeams (“we”, “us”) handles information when you visit **https://pieteams.github.io** and the project documentation hosted under paths such as `/piekbs/`, `/piemdm/` and `/pieplm/` (together, “the Site”).
 
@@ -27,7 +27,6 @@ When you load a page, the following technical information may be processed:
 - an approximate location derived from the IP address (normally at city or country level)
 - browser type, operating system, device type and screen size
 - IP address, which is processed by our hosting provider to deliver the page and protect the service
-- aggregated interaction data such as pages viewed and time on page, if analytics is enabled
 
 We do not attempt to identify individual readers from this data.
 
@@ -38,16 +37,13 @@ Cookies are small text files stored by your browser. The Site and its third-part
 | Category | Purpose | Set by | Typical duration |
 | --- | --- | --- | --- |
 | Essential | Deliver the page and its assets; remember theme and language preferences | GitHub Pages, VitePress | Session to 1 year |
-| Analytics | Understand aggregate traffic and improve documentation | Google Analytics 4 | Up to 2 years |
 | Advertising | Select, deliver and measure ads; limit repeated ads; detect invalid traffic | Google AdSense and its partners | Up to 2 years, depending on the cookie |
 
 You can delete or block cookies in your browser settings. Blocking advertising cookies does not prevent you from reading the documentation.
 
 ## 3. Analytics
 
-Some pages of the Site use Google Analytics 4, a web analytics service provided by Google. Google Analytics collects information about how visitors use the Site, such as pages viewed, session duration, approximate geography, device category and acquisition source. We use reports in aggregate to understand which documentation is useful and where pages need improvement.
-
-Google Analytics data is processed by Google as described in [How Google uses information from sites that use our services](https://policies.google.com/technologies/partner-sites). You can prevent your data from being used by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+The Site does not currently use a third-party analytics service. If we introduce one, we will update this policy, list the service and its cookies in the table above, and — where required — obtain consent before it is enabled.
 
 ## 4. Advertising
 
@@ -58,7 +54,7 @@ The Site displays advertising served by **Google AdSense**.
 - Users may opt out of personalised advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads).
 - Users may also opt out of a third-party vendor's use of cookies for personalised advertising by visiting [www.aboutads.info/choices](https://www.aboutads.info/choices/).
 
-Where required by applicable law, we rely on a consent mechanism to obtain consent before advertising cookies are set, and you can change or withdraw your choice at any time through that mechanism or your browser settings. Advertising supports the hosting and maintenance of the Site. Advertisers do not review or approve our documentation, and advertising does not influence technical comparisons or recommendations.
+Where required by applicable law, we rely on consent for advertising cookies. You can withdraw consent at any time by clearing or blocking cookies in your browser settings, or by using the opt-out links above. Advertising supports the hosting and maintenance of the Site. Advertisers do not review or approve our documentation, and advertising does not influence technical comparisons or recommendations.
 
 Google's [Advertising Policies](https://support.google.com/adspolicy/answer/6008942) and [How Google uses cookies in advertising](https://policies.google.com/technologies/ads) provide further information.
 
@@ -67,7 +63,7 @@ Google's [Advertising Policies](https://support.google.com/adspolicy/answer/6008
 Where the General Data Protection Regulation applies, we rely on the following legal bases:
 
 - **Legitimate interests** for operating and securing the Site, and for aggregate measurement needed to maintain documentation quality.
-- **Consent** for analytics and advertising cookies where consent is required, and for any processing that is not covered by legitimate interests.
+- **Consent** for advertising cookies where consent is required, and for any processing that is not covered by legitimate interests.
 - **Legal obligation** where we must retain or disclose information to comply with applicable law.
 
 You may object to processing based on legitimate interests, and withdraw consent at any time, using the contact method below.
@@ -79,18 +75,17 @@ We do not sell personal information. We do not rent or trade reader data.
 Information may be processed by the following service providers for the purposes described above:
 
 - **GitHub Pages** — static hosting and content delivery
-- **Google Analytics** — aggregate traffic measurement
 - **Google AdSense** — advertising delivery and measurement
 
 These providers process data under their own terms and privacy policies. We may also disclose information if required by law, or to protect the rights, safety and security of the Site, its maintainers or its users.
 
 ## 7. International transfers
 
-The Site is served by GitHub, and analytics and advertising are provided by Google. These providers may process information in countries other than the one in which you live. Where required, transfers are covered by the providers' standard contractual clauses or equivalent safeguards. See the providers' privacy documentation for details.
+The Site is served by GitHub, and advertising is provided by Google. These providers may process information in countries other than the one in which you live. Where required, transfers are covered by the providers' standard contractual clauses or equivalent safeguards. See the providers' privacy documentation for details.
 
 ## 8. Retention
 
-We do not maintain our own database of reader information. Aggregated analytics reports are retained according to the settings of the analytics property, normally for a limited period. Advertising and hosting logs are retained by the relevant provider according to its own policies. GitHub issue content remains publicly available until it is edited or removed.
+We do not maintain our own database of reader information. Advertising and hosting logs are retained by the relevant provider according to its own policies. GitHub issue content remains publicly available until it is edited or removed.
 
 ## 9. Your rights
 
